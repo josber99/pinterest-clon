@@ -1,0 +1,65 @@
+.navegadorprincipal {
+    display: inline;
+
+
+
+}
+.homebutton {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 25px;
+    background-color: black;
+    color:aliceblue;
+    
+}
+.searchbutton {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 35px;
+    padding-right: 200px;
+    border-radius: 100px;
+    background-color: rgb(226, 221, 221);
+    color: rgb(165, 165, 165);
+    margin: 0px;
+}
+body {
+    display: grid; 
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: masonry; 
+    
+}
+.logopinterest {
+    width: 24px; 
+    height: 24px;
+}
+.commentdots {
+    width: 24px; 
+    height: 24px;
+}
+.chinesegirlwithmakeup {
+    width: 200px; 
+    height: 250px;
+    margin: 50px;
+}
+.handsdraw {
+    width: 200px; 
+    height: 250px;
+    margin: 50px;
+}
+.afulldesk {
+    width: 200px; 
+    height: 250px;
+     margin: 50px; 
+}
+.asianboy {
+    width: 200px; 
+    height: 250px;
+    margin: 50px;
+}
+.girlwithpinkmakeup {
+    width: 200px; 
+    height: 250px;
+    margin: 50px;
+}
